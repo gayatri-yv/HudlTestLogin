@@ -8,7 +8,7 @@ Feature: To test login functionality for hudl
     Then I can see hudl home page with my login
     Examples:
       | username             | password |
-      | gayatri.yv@gmail.com | sairam31 |
+      | gayatri.yv@gmail.com |          |
 
     #Negative scenarios
   @test
